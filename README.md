@@ -4,6 +4,10 @@
 
 Legenday Flyff Website, recoded to use it with a Fiesta Online Server.
 
+![Pic1](http://i.epvpimg.com/iFxGfab.jpg)
+![Pic2](http://i.epvpimg.com/qYHpfab.png)
+
+
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
