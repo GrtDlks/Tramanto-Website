@@ -1,0 +1,15 @@
+#slideshow{width:697px;height:280px;background-image:url(../img/slide_bar.png);background-repeat:no-repeat;background-position:bottom;margin-bottom:5px;border-radius:3px;box-shadow:0 0 3px rgba(0,0,0,1);-moz-box-shadow:0 0 3px rgba(0,0,0,1);-webkit-box-shadow:0 0 3px rgba(0,0,0,1);}
+.slider{float:left;width:697px;height:250px;position:relative;padding-bottom:26px;}
+.sliderContent{float:left;width:697px;height:250px;clear:both;position:relative;overflow:hidden;}
+.sliderArrows a{display:block;text-indent:-9999px;outline:none;z-index:50;width:61px;height:56px;position:absolute;top:90%;margin-top:-34px;}
+.prev{background-position:0 0;left:287px;}
+.prev:hover{background-position:0 -56px;}
+.next{right:288px;background-position:-61px 0;}
+.next:hover{background-position:-61px -56px;}
+.sliderContent .item{position:absolute;width:697px;height:250px;}
+.sliderBullets{position:absolute;bottom:0;left:94%;z-index:50;margin-left:-45px;}
+.sliderBullets a{display:block;float:left;text-indent:-9999px;outline:none;margin-left:5px;width:22px;height:22px;background:url(../img/bubbleBlue.png) no-repeat;}
+.sliderBullets .active{background-position:0 -22px;}
+.sliderContent a{outline:none;}
+a{color:#fff;}
+a img{border:none;}
