@@ -6,7 +6,7 @@
 
 	
 	$navigation_href["home_h"] = "index.php";
-	$navigation_href["forums_h"] = 'https://www.forum.playpathos.net/';
+	$navigation_href["forums_h"] = 'https://www.forum.XXXXX.net/';
 	$navigation_href["impressum_h"] = "?module=TOS";
 	$navigation_href["epvp_h"] = 'http://elitepvpers.com/" target="_blank"';
 	$navigation_href["mcore_h"] = 'http://mmorpg-core.com/" target="_blank"';
@@ -25,13 +25,12 @@
 	$navigation_loggedin_href["gameaccounts_h"] = "?module=UserCP";
 	$navigation_loggedin_href["donation_h"] = "?module=Donate";
 	$navigation_loggedin_href["logout_h"] = "session.php";
-	$navigation_loggedin_href["item_shop"] = "http://mall.vesta-online.net/" ;
+	$navigation_loggedin_href["item_shop"] = "http://mall.XXX-onliXXXne.net/" ;
 	
 	$download_link["direct_download"] = "Client.rar";
-	$download_link["uploaded_download"] = 'https://mega.co.nz/#!6lY2SbLB!DTAda2MBSk3EXdGCijKIWXh5EyRF371NssJZM7K9gL8
-" target="_blank"';
+	$download_link["uploaded_download"] = 'https://mega.co.nz/XXXX" target="_blank"';
 	
-	$currency_name = "Pathos Coins";
+	$currency_name = "XXX Coins";
 	$currency_get = 1;
 	$currency_name2 = "Vote Poins";
 	$server_name = "Pathos Online";
@@ -43,31 +42,31 @@
 
 
 	$team_online[0] = array(
-	"name"		=> "Yoshimitsu",
+	"name"		=> "RefleXx",
 	"gender"	=> "♂",
 	"type"		=> "Administrator",
 	"color"		=> "1"
 	);	
 	$team_online[0] = array(
-	"name"		=> "Kiseku",
+	"name"		=> "RafleXx",
 	"gender"	=> "♂",
 	"type"		=> "Administrator",
 	"color"		=> "1"
 	);
 	$team_online[0] = array(
-	"name"		=> "Maddin",
+	"name"		=> "RopfleXx",
 	"gender"	=> "♂",
 	"type"		=> "Head-Gamemaster",
 	"color"		=> "4"
 	);	
 	$team_online[2] = array(
-	"name"		=> "Raspberriii",
+	"name"		=> "Oinq",
 	"gender"	=> "♀",
 	"type"		=> "Gamemasterin",
 	"color"		=> "4"
 	);	
 	$team_online[4] = array(
-	"name"		=> "Expand",
+	"name"		=> "Xerion",
 	"gender"	=> "♂",
 	"type"		=> "Gamemaster",
 	"color"		=> "4"
