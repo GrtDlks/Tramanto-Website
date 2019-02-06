@@ -4,7 +4,7 @@
 
 Legenday Flyff Website, recoded to use it with a Fiesta Online Server.
 
-![Pic1](http://i.epvpimg.com/iFxGfab.jpg)
+![Pic1](http://i.epvpimg.com/93zVdab.jpg)
 ![Pic2](http://i.epvpimg.com/qYHpfab.png)
 
 
